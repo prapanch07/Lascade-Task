@@ -37,6 +37,8 @@ A Flutter application built using the design provided in Figma and the [FakeStor
    ```
 
 ### Project Structure
+- `assets/`: Contains static resources used in the app which includes icons,images ....
+- `fonts/`: Contains custom font files that can be used throughout the app for typography.
 - `lib/`: Contains the main application code.
   - `models/`: Data models.
   - `providers/`: State management logic with `Provider`.
