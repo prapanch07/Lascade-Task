@@ -6,12 +6,17 @@ A Flutter application built using the design provided in Figma and the [FakeStor
 - Implements the Figma design provided by Cascade.
 - Fetches product data from the FakeStore API.
 - State management is handled using the `Provider` package.
+- Additionally, the app includes a dynamic greeting feature—if it’s morning, the app will wish "Good Morning," and if it’s afternoon, it will wish "Good Afternoon," all based on real-time data.
 
 ## Getting Started
 
 ### Prerequisites
 - Flutter installed on your system. [Install Flutter](https://docs.flutter.dev/get-started/install).
 - FakeStore API requires no setup, but you need an active internet connection for data fetching.
+
+### demo
+[![YouTube Shorts Video](https://img.youtube.com/vi/EaZUkhtZsLM/maxresdefault.jpg)](https://youtube.com/shorts/EaZUkhtZsLM?feature=shared)
+
 
 ### Installation
 
