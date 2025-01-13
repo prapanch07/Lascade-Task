@@ -10,7 +10,7 @@ A Flutter application built using the design provided in Figma and the [FakeStor
 
 ## Getting Started
 
-check out here for the apk : [click here]([https://docs.flutter.dev/get-started/install](https://drive.google.com/file/d/1HsBRx28S5hWHUvGi9tauX8JMm8SVvn20/view?usp=share_link)).
+check out here for the apk : [click here](https://drive.google.com/file/d/1HsBRx28S5hWHUvGi9tauX8JMm8SVvn20/view?usp=share_link).
 
 ### Prerequisites
 - Flutter installed on your system. [Install Flutter](https://docs.flutter.dev/get-started/install).
